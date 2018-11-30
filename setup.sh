@@ -8,7 +8,7 @@ yum install -y epel-release
 
 yum makecache
 
-yum install -y net-tools,lrzsz,pigz,vim,bash-completion,gcc,gcc--c++
+yum install -y net-tools lrzsz pigz vim bash-completion gcc gcc--c++
 
 echo "set ts=4" >> /etc/vimrc
 
