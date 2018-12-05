@@ -16,4 +16,4 @@ yum makecache
 
 yum install -y net-tools lrzsz pigz vim bash-completion gcc gcc-c++
 
-mv .vimrc ~
+mv vimrc ~/.vimrc
